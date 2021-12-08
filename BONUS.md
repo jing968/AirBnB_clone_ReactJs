@@ -1,0 +1,1 @@
+Implemented cancel booking using the provided endpoint
